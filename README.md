@@ -20,7 +20,7 @@ A simple Kanban Board UI built with React.js, Vite, and DaisyUI. This project fo
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kanban-board-ui.git
+git clone [https://github.com/yourusername/kanban-board-ui.git](https://github.com/denycode-dev/fe-react-practice-kanban-app.git)
 cd kanban-board-ui
 ```
 2. Install dependencies:
